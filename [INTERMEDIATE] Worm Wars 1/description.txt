@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6h9woe/20160614_challenge_319_intermediate_worm_wars_1/
 #Description#
 
 This is inspired in part by recent WannaCry malware propagation as well as some work I did a long time ago into worm propagation models. I figured it would make a fun pair of challenges. This was further influenced by a recent 2D Game of Life challenge.
